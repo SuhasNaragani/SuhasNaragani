@@ -1,39 +1,24 @@
-# 👋 Hi, I'm Suhas Naragani
+<div align="center">
 
-### 🚀 AI & Machine Learning Enthusiast  
-Building real-world AI systems that actually ship.
+```
+███████╗██╗   ██╗██╗  ██╗ █████╗ ███████╗
+██╔════╝██║   ██║██║  ██║██╔══██╗██╔════╝
+███████╗██║   ██║███████║███████║███████╗
+╚════██║██║   ██║██╔══██║██╔══██║╚════██║
+███████║╚██████╔╝██║  ██║██║  ██║███████║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
----
+### Learning. Building. Improving.
 
-### 🧠 Interests
-- Deep Learning
-- LLMs & Transformers
-- Multimodal AI
-- RAG Systems
-- Cloud + AI Integration
+*Machine Learning • Deep Learning • RAG Systems • Cloud AI*
 
----
+<br>
 
-### 🛠 Tech Stack
-- Python
-- TensorFlow / PyTorch
-- Scikit-Learn
-- OpenCV
-- SQL
-- Git
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blue" alt="profile views"/>
 
-### 📌 Featured Project
-**Forest Monitoring using AI**  
-Built an AI-powered system for environmental monitoring and analysis.
-
----
-
-### 🌐 Connect With Me
-[LinkedIn](your-link)  
-[HuggingFace](your-link)
-
----
-
-⭐ Always learning. Always building.
+</div>
