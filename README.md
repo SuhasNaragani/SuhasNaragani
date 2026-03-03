@@ -19,6 +19,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blue" alt="profile views"/>
-
 </div>
