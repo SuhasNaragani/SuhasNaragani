@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-### Learning. Building. Improving
+### Learning | Building | Improving
 
 AI AGENTS • Machine Learning • Deep Learning • RAG Systems • Cloud AI
 
