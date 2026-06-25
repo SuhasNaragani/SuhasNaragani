@@ -11,7 +11,7 @@
 
 ### Learning. Building. Improving.
 
-* AI AGENTS • Machine Learning • Deep Learning • RAG Systems • Cloud AI *
+AI AGENTS • Machine Learning • Deep Learning • RAG Systems • Cloud AI
 
 # 💫 About Me:
 Final-year B.Tech CSE student specializing in ML & AI, currently building and shipping LLM-powered applications at an AI startup | Looking to collaborate on AI Agents, RAG pipelines & open-source AI/ML projects | Looking to scale intelligent AI systems for real-world production environments | Currently learning LLM Fine-tuning, AI Agents, Advanced RAG Systems & Full-Stack AI developmentI don't just study AI I build it, ship it, and make it work in the real world!
