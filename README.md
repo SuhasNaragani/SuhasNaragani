@@ -22,12 +22,10 @@ Final-year B.Tech CSE student specializing in ML & AI, currently building and sh
 <p align="center">
 <a href="https://www.linkedin.com/in/suhasnaragani/" target="_blank" style="display:inline-block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
+</a>&nbsp;
 <a href="mailto:naraganisuhaas01email@gmail.com" target="_blank" style="display:inline-block">
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
 </a>
-</p>
-
 
 # Tech Stack:
 <p align="center">
